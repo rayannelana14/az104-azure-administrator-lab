@@ -39,6 +39,8 @@ The repository contains **5 labs, one for each AZ-104 exam domain**:
 └── README.md
 ```
 
+
+
 ## Roadmap
 
 - [ ] **Setup**: Azure subscription, Azure CLI and Bicep installed, budget alert set up
